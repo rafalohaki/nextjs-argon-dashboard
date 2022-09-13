@@ -4,7 +4,7 @@
 ### Major style changes
 - Delete the `src/assets/scss/bootstrap` folder and changed all the bootstrap imports from `src/assets/scss` files to ones from `node_modules`
 ### Deleted components
-### Added components
+### Added componentsd
 ### Deleted dependencies
 - @types/react
 - @types/markerclustererplus
